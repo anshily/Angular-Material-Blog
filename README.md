@@ -1,4 +1,4 @@
-# Amblog
+# Angular-Material-Blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## 使用了 Angular-Material
+[Angular-Material](https://material.angular.cn)
+
+```
+npm install --save angular/material2-builds angular/cdk-builds angular/animations-builds
+```

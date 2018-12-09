@@ -23,9 +23,14 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/editor.md/css/editormd.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/jquery.min.js",
+              "node_modules/marked/marked.min.js",
+              "src/assets/editor.md/editormd.js"
+            ]
           },
           "configurations": {
             "production": {
